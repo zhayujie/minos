@@ -1,0 +1,5 @@
+*.o
+*.bin
+.vscode
+.DS_Store
+kernel/kernel
